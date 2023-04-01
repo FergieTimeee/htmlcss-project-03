@@ -15,7 +15,8 @@
       "default",
       {
         "ignore": [
-          "rotate"
+          "rotate",
+          "text-underline-offset"
         ]
       }
     ]
