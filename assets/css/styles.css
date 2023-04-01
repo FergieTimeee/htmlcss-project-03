@@ -532,3 +532,36 @@ a {
     cursor: pointer;
     border-color: #2e80ce;
 }
+
+/* Install app  */
+.install-app {
+    margin-top: 180px;
+}
+
+.install-app__inner {
+    background: #2e80ce;
+    border-radius: 4px;
+    padding: 0 70px;
+    display: flex;
+    align-items: center;
+}
+
+.install-app__img {
+    margin-top: -95px;
+    width: 284px;
+    height: 522px;
+    object-fit: cover;
+    display: block;
+    margin-right: 160px;
+}
+
+.install-app__heading,
+.install-app__desc {
+    color: #ffffff;
+}
+
+.install-app__row {
+    margin-top: 38px;
+    display: flex;
+    column-gap: 28px;
+}
